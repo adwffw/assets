@@ -1,0 +1,33 @@
+﻿{
+    "name": "Tether USD",
+    "website": "https://tether.to",
+    "description": "Tether (USDT) is a blockchain-based cryptocurrency that is backed by an equivalent amount of traditional fiat currencies, like the dollar, euro or yen, which are held in a designated bank account.",
+    "explorer": "https://etherscan.io/token/0xAd098bF2126214B4e54Fc482D2B8dBB174481E84",
+    "research": "https://research.binance.com/en/projects/tether",
+    "symbol": "USDT",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "stablecoin",
+        "pegged-fiat"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/tether"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Tether"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tether.to/wp-whitepaper/"
+        }
+    ]
+}
